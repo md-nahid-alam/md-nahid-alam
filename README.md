@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Nahid Alam</h1>
 <h3 align="center">#_A Cyber Security Expert & Developer</h3>
-img align="right" alt="Coding" width="400" src="https://github.com/md-nahid-alam/md-nahid-alam/assets/76641588/38c079e5-10eb-4c5d-b4c8-2088ae2984b7"
+<img align="right" alt="Coding" width="400" src="https://github.com/md-nahid-alam/md-nahid-alam/assets/76641588/38c079e5-10eb-4c5d-b4c8-2088ae2984b7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nahid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="md-nahid-alam" /> </p>
 
